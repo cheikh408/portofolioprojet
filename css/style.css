@@ -84,7 +84,7 @@ hr {
 }
 
 .social>i:hover {
-    color: #1267d6;
+    color: #cdd6db;
     cursor: pointer
 }
 
@@ -127,4 +127,10 @@ nav ul{
 nav ul li{
     margin-left: 1px;
 }
+h3 .nowrap{
+    color: brown;
 
+}
+.fa-brands fa-github{
+    font-size: 27px; margin-left: 12px;
+}
